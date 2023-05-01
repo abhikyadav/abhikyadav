@@ -5,6 +5,20 @@
 ### so, curently this is my first try making my readme, hope you like it 😄
 ### and, you can call me Abhishek
 
+
+## Programming Languages
+
+[<img align="left" alt="C" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />][c]
+[<img align="left" alt="C++" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />][cpp]
+[<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />][python]
+
+[c]: https://en.wikipedia.org/wiki/C_(programming_language)
+[cpp]: https://en.wikipedia.org/wiki/C%2B%2B
+[python]: https://www.python.org/
+
+
+<br>
+
 ## By the way here are some of my statistics 🚀
 ![AbhishekYadav's github stats](https://github-readme-stats.vercel.app/api?username=abhikyadav&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhikyadav&theme=tokyonight" alt="mystreak"/>
