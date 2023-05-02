@@ -1,6 +1,6 @@
 <h1 align="center">Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
-### :smiley_cat: I am a student at IIT Jammu
+### :smiley_cat: I am a Masters student(Data Science) at IIT Jammu
 
 ### so, curently this is my first try making my readme, hope you like it 😄
 ### and, you can call me Abhishek
