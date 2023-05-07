@@ -2,6 +2,10 @@
 
 ### :smiley_cat: I pursuing masters in Data Science at IIT Jammu.
 
+<p align="center">
+<a href="https://github.com/rajatenzyme"><img src="https://img.shields.io/badge/Abhishek_Yadav-brightgreen" alt=""></a>
+<img src="https://komarev.com/ghpvc/?username=rajatenzyme" alt="abhikyadav" />
+</p>
 
 ## Programming Languages
 
