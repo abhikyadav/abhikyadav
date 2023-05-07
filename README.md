@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<a href="https://github.com/abhikyadav"><img src="https://img.shields.io/badge/Abhishek_Yadav-seablue" alt=""></a>
+<a href="https://github.com/abhikyadav"><img src="https://img.shields.io/badge/Abhishek_Yadav-brightgreen" alt=""></a>
 <img src="https://komarev.com/ghpvc/?username=abhikyadav" alt="abhikyadav" />
 </p>
 
