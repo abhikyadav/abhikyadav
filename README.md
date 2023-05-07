@@ -1,11 +1,13 @@
 <h1 align="center">Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
-### :smiley_cat: I pursuing masters in Data Science at IIT Jammu.
 
 <p align="center">
 <a href="https://github.com/rajatenzyme"><img src="https://img.shields.io/badge/Abhishek_Yadav-brightgreen" alt=""></a>
 <img src="https://komarev.com/ghpvc/?username=abhikyadav" alt="abhikyadav" />
 </p>
+
+### :smiley_cat: I pursuing masters in Data Science at IIT Jammu.
+
 
 ## Programming Languages
 
