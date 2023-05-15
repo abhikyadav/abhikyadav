@@ -6,7 +6,7 @@
 <img src="https://komarev.com/ghpvc/?username=abhikyadav" alt="abhikyadav" />
 </p>
 
-### :smiley_cat: I pursuing masters in Data Science at IIT Jammu.
+### :smiley_cat: I'm pursuing masters in Data Science at IIT Jammu.
 
 
 ## Programming Languages
