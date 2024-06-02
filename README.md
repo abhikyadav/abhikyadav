@@ -6,7 +6,7 @@
 <img src="https://komarev.com/ghpvc/?username=abhikyadav" alt="abhikyadav" />
 </p>
 
-### :smiley_cat: I'm pursuing masters in Data Science at IIT Jammu.
+### :smiley_cat: I hold a Master's degree in Data Science and currently work as an Algorithm Developer. I have a deep interest in Machine Learning and Natural Language Processing..
 </p>
 
 
